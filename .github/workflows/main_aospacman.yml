@@ -50,4 +50,4 @@ jobs:
           app-name: 'AOSpacman'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_59B8E2DB8BB84F7AB2DC1E51B4ADC20F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CE937FAC7E204303B29B95F727301AA1 }}
