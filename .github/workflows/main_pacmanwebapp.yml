@@ -50,4 +50,4 @@ jobs:
           app-name: 'pacmanwebapp'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4C6C455BE8D64018839F04F9FEF5462C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CC782ACFE6344D2F8243E565B225AB8B }}
